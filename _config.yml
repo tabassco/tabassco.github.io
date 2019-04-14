@@ -38,11 +38,11 @@ permalink: /blog/:title.html
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: elipapa
+# twitter:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: eliseopapa
+# linkedin:
 # youtube: myyoutube
 # spotify: vivissima
 github: tabassco
@@ -50,10 +50,10 @@ github: tabassco
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: elipapa
-# orcid: 0000-0002-2467-7759
+# medium:
+# orcid:
 # vimeo: myvimeo
-# email: myemail@gmail.com
+email: tim@kreitner.xyz
 
 authors:
     tabassco:
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-# blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
