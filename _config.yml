@@ -8,8 +8,8 @@ description: Tims ideas.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/tim.png
-logo: assets/images/tim.png
+picture: assets/images/tim_front.png
+logo: assets/images/tim_front.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
