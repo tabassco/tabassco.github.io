@@ -4,9 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Mechanical Engineer, Computational Engineer, Data Scientist
+Degrees in both mechanical and computational engineering with an interest in robotics, control theory and machine learning.
 
-Using machine learning and statistical methods combined with domain knowledge in engineering to develop new ways of judging flight efficiency. Currently looking for a position as a data scientist in the Hamburg Area.
+Working at [HILSTER](https://www.hilster.de/) developing better ways to do hardware and software testing in python.
+
+# Expertise
+
+-
+
+
 
 # Computing
 
