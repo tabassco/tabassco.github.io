@@ -4,14 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Degrees in both mechanical and computational engineering with an interest in robotics, control theory and machine learning.
+Software-Engineer with degrees in both mechanical and computational engineering. Got an interest in robotics, control theory and machine learning.
 
-Working at [HILSTER](https://www.hilster.de/) developing better ways to do hardware and software testing in python.
+Working at [HILSTER](https://www.hilster.de/) developing better wa ys to do hardware and software testing in python.
 
 # Expertise
 
 -
-
 
 
 # Computing
