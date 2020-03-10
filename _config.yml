@@ -1,3 +1,5 @@
+remote_theme: kondratyev-nv/jekyll-theme-littlefox
+
 # main text of home
 name: Tim Kreitner
 bio: mechanical engineer, compuational engineer, software developer
